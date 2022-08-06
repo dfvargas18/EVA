@@ -1,0 +1,16 @@
+.ventana{
+    width: auto;
+    height: auto;
+
+    align-items: center;
+    background-color: blanchedalmond;
+
+    font-family:fantasy ;
+
+}
+
+.producto1{
+    background-color: black;
+    height: auto;
+    display: flex;
+}
