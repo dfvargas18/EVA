@@ -9,8 +9,7 @@
 .form-box {
     width: 300px;
     height: 300px;
-    background-color: rgb(255, 255, 255);
-    text-align: center;
+    background-color: rgb(255, 255, 255)
 
 }
 
@@ -18,12 +17,5 @@
 .form-box input {
 width: 280px;
     border: white;
-}
-    
-.form-box button {
-    border: 0;
-    background:GRA ;
-    cursor: pointer;
-
 
 }
